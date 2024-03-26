@@ -18,7 +18,7 @@ sparse = pandas.read_csv('MLC_example_1.csv')
 mask = fast_mss(img, sparse, labels, start_iter = 7500, end_iter = 80, num_iter = 20, method = 'mode')
 ```
 
-![](Example_Images/MLC_Example.png)
+![](Figures/MLC_Example.png)
 
 A more detailed example can be found in `Notebooks`
 

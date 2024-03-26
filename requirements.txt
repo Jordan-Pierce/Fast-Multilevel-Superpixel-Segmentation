@@ -1,0 +1,9 @@
+msvc-runtime
+numpy
+pandas
+seaborn
+matplotlib
+scikit-image
+opencv-python
+cython
+fast-slic
